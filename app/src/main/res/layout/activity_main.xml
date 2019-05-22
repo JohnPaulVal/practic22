@@ -82,6 +82,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/grupo1" />
 
+  
+
     <TextView
         android:id="@+id/tv1"
         android:layout_width="330dp"
@@ -95,4 +97,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/operar" />
+
 </android.support.constraint.ConstraintLayout>
